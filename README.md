@@ -1,2 +1,2 @@
-# LeetCode-Python
+# LeetCode
 Leetcode's DSA questions I solved

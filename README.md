@@ -24,4 +24,5 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3429-special-array-i](https://github.com/TomSibu/LeetCode/tree/master/3429-special-array-i) |
 <!---LeetCode Topics End-->

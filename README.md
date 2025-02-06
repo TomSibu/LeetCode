@@ -20,4 +20,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->

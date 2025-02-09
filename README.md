@@ -17,16 +17,19 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
+| [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TomSibu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
+| [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Array
 |  |
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3429-special-array-i](https://github.com/TomSibu/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
@@ -53,4 +56,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/TomSibu/LeetCode/tree/master/0684-redundant-connection) |
+## Counting
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->

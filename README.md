@@ -9,6 +9,7 @@ Leetcode's DSA questions I solved
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TomSibu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TomSibu/LeetCode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/TomSibu/LeetCode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -36,10 +37,12 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/TomSibu/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TomSibu/LeetCode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/TomSibu/LeetCode/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |

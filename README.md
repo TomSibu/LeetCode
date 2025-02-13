@@ -27,10 +27,12 @@ Leetcode's DSA questions I solved
 | ------- |
 | [0009-palindrome-number](https://github.com/TomSibu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |

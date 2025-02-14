@@ -32,6 +32,7 @@ Leetcode's DSA questions I solved
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -89,4 +90,8 @@ Leetcode's DSA questions I solved
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TomSibu/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

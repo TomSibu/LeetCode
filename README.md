@@ -29,6 +29,7 @@ Leetcode's DSA questions I solved
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/TomSibu/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
 | ------- |
@@ -94,4 +95,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/TomSibu/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@ Leetcode's DSA questions I solved
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TomSibu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TomSibu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -95,6 +96,7 @@ Leetcode's DSA questions I solved
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TomSibu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
 ## Backtracking
 |  |

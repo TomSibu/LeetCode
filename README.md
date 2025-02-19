@@ -9,6 +9,7 @@ Leetcode's DSA questions I solved
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TomSibu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TomSibu/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/TomSibu/LeetCode/tree/master/0058-length-of-last-word) |
 | [1160-letter-tile-possibilities](https://github.com/TomSibu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TomSibu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TomSibu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |

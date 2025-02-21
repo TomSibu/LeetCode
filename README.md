@@ -34,6 +34,7 @@ Leetcode's DSA questions I solved
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TomSibu/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/TomSibu/LeetCode/tree/master/0070-climbing-stairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/TomSibu/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
@@ -128,4 +129,12 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TomSibu/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TomSibu/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/TomSibu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -41,6 +42,7 @@ Leetcode's DSA questions I solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TomSibu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TomSibu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -81,6 +83,7 @@ Leetcode's DSA questions I solved
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/TomSibu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Linked List
@@ -94,6 +97,7 @@ Leetcode's DSA questions I solved
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -120,4 +124,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TomSibu/LeetCode/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

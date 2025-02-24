@@ -43,6 +43,7 @@ Leetcode's DSA questions I solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TomSibu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/TomSibu/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TomSibu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -137,4 +138,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TomSibu/LeetCode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/TomSibu/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

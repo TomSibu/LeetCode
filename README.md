@@ -35,6 +35,7 @@ Leetcode's DSA questions I solved
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TomSibu/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TomSibu/LeetCode/tree/master/0070-climbing-stairs) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/TomSibu/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
@@ -45,6 +46,7 @@ Leetcode's DSA questions I solved
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/TomSibu/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TomSibu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -134,6 +136,7 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TomSibu/LeetCode/tree/master/0070-climbing-stairs) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -142,4 +145,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/TomSibu/LeetCode/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->

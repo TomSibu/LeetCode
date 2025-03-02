@@ -27,6 +27,7 @@ Leetcode's DSA questions I solved
 | [1160-letter-tile-possibilities](https://github.com/TomSibu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TomSibu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ Leetcode's DSA questions I solved
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TomSibu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TomSibu/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/TomSibu/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -115,6 +117,7 @@ Leetcode's DSA questions I solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TomSibu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TomSibu/LeetCode/tree/master/0027-remove-element) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TomSibu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Backtracking
 |  |
 | ------- |

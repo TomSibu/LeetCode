@@ -15,6 +15,7 @@ Leetcode's DSA questions I solved
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TomSibu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TomSibu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/TomSibu/LeetCode/tree/master/3447-clear-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TomSibu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Leetcode's DSA questions I solved
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TomSibu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TomSibu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
 |  |
 | ------- |
@@ -168,4 +170,5 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/TomSibu/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TomSibu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->

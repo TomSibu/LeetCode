@@ -12,6 +12,7 @@ Leetcode's DSA questions I solved
 | [0058-length-of-last-word](https://github.com/TomSibu/LeetCode/tree/master/0058-length-of-last-word) |
 | [1160-letter-tile-possibilities](https://github.com/TomSibu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/TomSibu/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TomSibu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TomSibu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TomSibu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/TomSibu/LeetCode/tree/master/3447-clear-digits) |
@@ -26,6 +27,7 @@ Leetcode's DSA questions I solved
 | [0013-roman-to-integer](https://github.com/TomSibu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/TomSibu/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TomSibu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TomSibu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -169,6 +171,7 @@ Leetcode's DSA questions I solved
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TomSibu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/TomSibu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TomSibu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->

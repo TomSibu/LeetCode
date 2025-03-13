@@ -67,6 +67,7 @@ Leetcode's DSA questions I solved
 | [3429-special-array-i](https://github.com/TomSibu/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/TomSibu/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/TomSibu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Leetcode's DSA questions I solved
 | ------- |
 | [0069-sqrtx](https://github.com/TomSibu/LeetCode/tree/master/0069-sqrtx) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TomSibu/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/TomSibu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/TomSibu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
 | ------- |

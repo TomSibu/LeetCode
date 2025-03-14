@@ -56,6 +56,7 @@ Leetcode's DSA questions I solved
 | [0066-plus-one](https://github.com/TomSibu/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/TomSibu/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/TomSibu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TomSibu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TomSibu/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -145,6 +146,7 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TomSibu/LeetCode/tree/master/0069-sqrtx) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/TomSibu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TomSibu/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/TomSibu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer

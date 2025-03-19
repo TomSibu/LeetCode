@@ -70,6 +70,7 @@ Leetcode's DSA questions I solved
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TomSibu/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/TomSibu/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TomSibu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TomSibu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/TomSibu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/TomSibu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
@@ -172,10 +173,12 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/TomSibu/LeetCode/tree/master/0136-single-number) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TomSibu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TomSibu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/TomSibu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
@@ -185,6 +188,11 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TomSibu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TomSibu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/TomSibu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TomSibu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TomSibu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->

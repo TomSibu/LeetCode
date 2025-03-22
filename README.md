@@ -93,10 +93,12 @@ Leetcode's DSA questions I solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/TomSibu/LeetCode/tree/master/0112-path-sum) |
 | [0684-redundant-connection](https://github.com/TomSibu/LeetCode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/TomSibu/LeetCode/tree/master/0112-path-sum) |
 | [0684-redundant-connection](https://github.com/TomSibu/LeetCode/tree/master/0684-redundant-connection) |
 ## Union Find
 |  |
@@ -203,4 +205,12 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TomSibu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/TomSibu/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/TomSibu/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

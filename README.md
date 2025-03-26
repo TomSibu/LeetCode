@@ -46,6 +46,7 @@ Leetcode's DSA questions I solved
 | [0070-climbing-stairs](https://github.com/TomSibu/LeetCode/tree/master/0070-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TomSibu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TomSibu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TomSibu/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/TomSibu/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -63,6 +64,7 @@ Leetcode's DSA questions I solved
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TomSibu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TomSibu/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TomSibu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TomSibu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TomSibu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2448-count-number-of-bad-pairs](https://github.com/TomSibu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -128,6 +130,7 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TomSibu/LeetCode/tree/master/0169-majority-element) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TomSibu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TomSibu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -213,4 +216,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/TomSibu/LeetCode/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TomSibu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->

@@ -220,4 +220,8 @@ Leetcode's DSA questions I solved
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TomSibu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/TomSibu/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

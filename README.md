@@ -18,6 +18,7 @@ Leetcode's DSA questions I solved
 | [2456-construct-smallest-number-from-di-string](https://github.com/TomSibu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/TomSibu/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TomSibu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/TomSibu/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Trie
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Leetcode's DSA questions I solved
 | [1170-shortest-common-supersequence](https://github.com/TomSibu/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TomSibu/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3618-find-the-original-typed-string-ii](https://github.com/TomSibu/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Leetcode's DSA questions I solved
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TomSibu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TomSibu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/TomSibu/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/TomSibu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
